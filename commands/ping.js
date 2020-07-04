@@ -2,7 +2,7 @@ module.exports = {
   name: 'ping',
   description: 'Ping!',
   execute(msg, args) {
-    msg.reply('pong')
+    msg.reply('Farts!')
     // msg.channel.send('pong')
   },
 }
